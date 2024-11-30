@@ -1,0 +1,3 @@
+﻿  Pr16_Graf.cpp
+C:\Users\student-A209.PERMAVIAT\Desktop\Pr16_Graf\Pr16_Graf.cpp(95,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Pr16_Graf.vcxproj -> C:\Users\student-A209.PERMAVIAT\Desktop\Pr16_Graf\Debug\Pr16_Graf.exe
